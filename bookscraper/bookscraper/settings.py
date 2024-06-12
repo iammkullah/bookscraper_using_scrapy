@@ -116,7 +116,7 @@ FEEDS = {
 
 #USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
 
-SCRAPEOPS_API_KEY = 'b2895f67-57cf-4e4b-807c-f1447224d5d3'
+SCRAPEOPS_API_KEY = 'YOUR_API_KEY'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/browser-headers'
 SCRAPEOPS_PROXY_SETTINGS = {'country': 'us'}
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
